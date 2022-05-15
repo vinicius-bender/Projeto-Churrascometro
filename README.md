@@ -1,5 +1,7 @@
 # Projeto-Churrascometro
  
+ https://vinicius-bender.github.io/Projeto-Churrascometro/
+ 
 - Nesta aplicação desenvolvida em JavaScript, fiz uma ferramenta que calcula quanto de carne, cerveja e bebidas (refrigerante/suco/água), você precisa para fazer um churrasco entre amigos. Os parâmetros para o calculo do churrascometro são os seguintes:
 
 *Carne - 400 g por pessoa, se o churrasco durar mais de 6 horas 650g por pessoas.
